@@ -10,7 +10,7 @@ import android.widget.TextView
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.fragment.app.FragmentManager
 import androidx.recyclerview.widget.RecyclerView
-import ru.bikbulatov.pikabutest.PostsViewModel
+import ru.bikbulatov.pikabutest.ui.PostsViewModel
 import ru.bikbulatov.pikabutest.R
 import ru.bikbulatov.pikabutest.data.models.Post
 import ru.bikbulatov.pikabutest.db.DbUtils

@@ -9,7 +9,6 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import dagger.hilt.android.AndroidEntryPoint
-import ru.bikbulatov.pikabutest.PostsViewModel
 import ru.bikbulatov.pikabutest.R
 import ru.bikbulatov.pikabutest.data.models.Post
 import ru.bikbulatov.pikabutest.databinding.FragmentPostsFeedBinding

@@ -8,7 +8,6 @@ import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.bumptech.glide.Glide
-import ru.bikbulatov.pikabutest.PostsViewModel
 import ru.bikbulatov.pikabutest.data.models.Post
 import ru.bikbulatov.pikabutest.databinding.FragmentPostBinding
 import ru.bikbulatov.pikabutest.db.DbUtils

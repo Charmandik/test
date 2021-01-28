@@ -1,4 +1,4 @@
-package ru.bikbulatov.pikabutest
+package ru.bikbulatov.pikabutest.ui
 
 import androidx.hilt.lifecycle.ViewModelInject
 import androidx.lifecycle.MutableLiveData
